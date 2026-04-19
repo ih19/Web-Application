@@ -1,0 +1,93 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Apple AirPods Pro (2nd Gen)",
+      "price": 249.99,
+      "rating": 4.8,
+      "reviews": 120453,
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1603351154351-5e2d0600bb77?w=400&q=80",
+      "description": "Active noise cancellation, adaptive transparency, and personalized spatial audio. Up to 6 hours of listening time, 30 hours total with case.",
+      "prime": true
+    },
+    {
+      "id": 2,
+      "title": "Sony WH-1000XM5 Headphones",
+      "price": 349.99,
+      "rating": 4.7,
+      "reviews": 89201,
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400&q=80",
+      "description": "Industry-leading noise canceling with Dual Noise Sensor technology. Up to 30-hour battery life with quick charging.",
+      "prime": true
+    },
+    {
+      "id": 3,
+      "title": "Kindle Paperwhite (16 GB)",
+      "price": 139.99,
+      "rating": 4.6,
+      "reviews": 203847,
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1510906594845-bc082582c8cc?w=400&q=80",
+      "description": "Now with a larger 6.8\" display and thinner borders, adjustable warm light, up to 10 weeks of battery life.",
+      "prime": true
+    },
+    {
+      "id": 4,
+      "title": "LEGO Technic Bugatti Chiron",
+      "price": 349.95,
+      "rating": 4.9,
+      "reviews": 14523,
+      "category": "Toys",
+      "image": "https://images.unsplash.com/photo-1587654780291-39c9404d746b?w=400&q=80",
+      "description": "3,599 pieces. Replica of the real Bugatti Chiron with functioning W16 engine, gearbox, and rear spoiler.",
+      "prime": false
+    },
+    {
+      "id": 5,
+      "title": "Instant Pot Duo 7-in-1",
+      "price": 89.99,
+      "rating": 4.7,
+      "reviews": 312904,
+      "category": "Kitchen",
+      "image": "https://images.unsplash.com/photo-1585515320310-259814833e62?w=400&q=80",
+      "description": "Pressure cooker, slow cooker, rice cooker, steamer, sauté pan, yogurt maker, and warmer in one appliance.",
+      "prime": true
+    },
+    {
+      "id": 6,
+      "title": "Nike Air Max 270",
+      "price": 130.00,
+      "rating": 4.5,
+      "reviews": 47832,
+      "category": "Clothing",
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=400&q=80",
+      "description": "The Nike Air Max 270 delivers a super-soft ride with the tallest Air unit yet. Lightweight knit upper for breathability.",
+      "prime": true
+    },
+    {
+      "id": 7,
+      "title": "The Great Gatsby - F. Scott Fitzgerald",
+      "price": 9.99,
+      "rating": 4.4,
+      "reviews": 78903,
+      "category": "Books",
+      "image": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=400&q=80",
+      "description": "A timeless classic. Set in the Jazz Age on Long Island, the novel depicts narrator Nick Carraway's interactions with Jay Gatsby.",
+      "prime": true
+    },
+    {
+      "id": 8,
+      "title": "Vitamix 5200 Blender",
+      "price": 399.95,
+      "rating": 4.8,
+      "reviews": 23481,
+      "category": "Kitchen",
+      "image": "https://images.unsplash.com/photo-1570197788417-0e82375c9371?w=400&q=80",
+      "description": "Professional-grade blender with variable speed control. Self-cleaning in 30 to 60 seconds. 64 oz container.",
+      "prime": false
+    }
+  ],
+  "cart": []
+}
