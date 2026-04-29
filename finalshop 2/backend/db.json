@@ -1,0 +1,13 @@
+{
+  "products": [
+    { "id": 1, "title": "Classic Leather Boots", "price": 89.99, "category": "Shoes", "image": "https://images.unsplash.com/photo-1608256246200-53e635b5b65f?w=400&q=80", "rating": 4.7 },
+    { "id": 2, "title": "Game Boy Color", "price": 49.99, "category": "Gaming", "image": "https://images.unsplash.com/photo-1531525645387-7f14be1bdbbd?w=400&q=80", "rating": 4.8 },
+    { "id": 3, "title": "Denim Jacket", "price": 39.99, "category": "Clothing", "image": "https://images.unsplash.com/photo-1551537482-f2075a1d41f2?w=400&q=80", "rating": 4.5 },
+    { "id": 4, "title": "Walkman Cassette Player", "price": 29.99, "category": "Electronics", "image": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=400&q=80", "rating": 4.7 },
+    { "id": 5, "title": "Rollerblades", "price": 59.99, "category": "Sports", "image": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&q=80", "rating": 4.6 },
+    { "id": 6, "title": "Fanny Pack", "price": 12.99, "category": "Accessories", "image": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?w=400&q=80", "rating": 4.3 },
+    { "id": 7, "title": "VHS Tape Collection", "price": 9.99, "category": "Movies", "image": "https://images.unsplash.com/photo-1598899134739-24c46f58b8c0?w=400&q=80", "rating": 4.4 },
+    { "id": 8, "title": "Snap Bracelet Set", "price": 7.99, "category": "Toys", "image": "https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?w=400&q=80", "rating": 4.7 }
+  ],
+  "cart": []
+}
