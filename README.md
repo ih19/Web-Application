@@ -4,6 +4,7 @@ A 90s-themed e-commerce web application built with React and JSON Server.
 
 How to Run:
 Terminal 1 - Backend
+
 cd Downloads/finalshop/backend
 
 npm install
@@ -13,6 +14,7 @@ npm start
 Runs on http://localhost:5000
 
 Terminal 2 - Frontend
+
 cd Downloads/finalshop/frontend
 
 npm install
